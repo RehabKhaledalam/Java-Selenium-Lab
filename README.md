@@ -24,11 +24,6 @@ It is intended as a learning and practice resource for QA automation skills.
 - and more..
 
 
-## Notes
-
-- Feel free to add your own locators using the method you prefer (e.g., XPath, CSS Selector, ID, etc.).
-- This project is intended for experimentation and learning—customization is welcome!
-
 ## Author
 
 Rehab Khaled
