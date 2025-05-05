@@ -1,5 +1,5 @@
 # Java-Selenium-Lab
-# Selenium Learning Labs
+
 
 This project contains a collection of basic to intermediate Selenium WebDriver test cases "Basic Function" using Java.  
 It is intended as a learning and practice resource for QA automation skills.
